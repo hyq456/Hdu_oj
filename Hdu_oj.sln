@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1095", "P1095\P1095.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P1096", "P1096\P1096.vcxproj", "{D3D88034-8F74-452E-B1D8-9A03D86CA380}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P2000", "P2000\P2000.vcxproj", "{E8E06DDE-D36E-4526-9014-E3B50C341360}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{D3D88034-8F74-452E-B1D8-9A03D86CA380}.Release|x64.Build.0 = Release|x64
 		{D3D88034-8F74-452E-B1D8-9A03D86CA380}.Release|x86.ActiveCfg = Release|Win32
 		{D3D88034-8F74-452E-B1D8-9A03D86CA380}.Release|x86.Build.0 = Release|Win32
+		{E8E06DDE-D36E-4526-9014-E3B50C341360}.Debug|x64.ActiveCfg = Debug|x64
+		{E8E06DDE-D36E-4526-9014-E3B50C341360}.Debug|x64.Build.0 = Debug|x64
+		{E8E06DDE-D36E-4526-9014-E3B50C341360}.Debug|x86.ActiveCfg = Debug|Win32
+		{E8E06DDE-D36E-4526-9014-E3B50C341360}.Debug|x86.Build.0 = Debug|Win32
+		{E8E06DDE-D36E-4526-9014-E3B50C341360}.Release|x64.ActiveCfg = Release|x64
+		{E8E06DDE-D36E-4526-9014-E3B50C341360}.Release|x64.Build.0 = Release|x64
+		{E8E06DDE-D36E-4526-9014-E3B50C341360}.Release|x86.ActiveCfg = Release|Win32
+		{E8E06DDE-D36E-4526-9014-E3B50C341360}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
